@@ -47,7 +47,7 @@ def echo2():
             l=input()
             if l=='да':
                 print('ЭКСТРА:')
-                print('следущая игра от этого разроботчика:windows 13 on scratch')
+                print('следущая игра от этого разработчика:windows 13 on scratch')
                 break
             else:
                 break
@@ -80,3 +80,4 @@ while True:
             time.sleep(2)
             print (a)
             b+=1
+time.sleep(10)
